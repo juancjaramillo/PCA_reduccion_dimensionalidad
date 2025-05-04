@@ -173,7 +173,7 @@ Para usar un conjunto de imágenes almacenadas localmente en la carpeta `assets/
 2. Inserta en el README con Markdown:
 
    ```markdown
-   ![Comparativa PCA](assets/comparativa.png)
+   ![Comparativa PCA](assets/ChatGPT Image 3 may 2025, 12_05_10 p.m..png)
    ```
 3. Controla tamaño con HTML si lo necesitas:
 
