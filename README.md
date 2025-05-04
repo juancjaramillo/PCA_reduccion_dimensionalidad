@@ -173,7 +173,7 @@ Para usar un conjunto de imágenes almacenadas localmente en la carpeta `assets/
 2. Inserta en el README con Markdown:
 
    ```markdown
-   ![Comparativa PCA](assets/images/1_ISSXbZzaUOf3-EyEzAW-MQ.png)
+   ![Comparativa PCA](assets/comparativa.png)
    ```
 3. Controla tamaño con HTML si lo necesitas:
 
@@ -184,14 +184,14 @@ Para usar un conjunto de imágenes almacenadas localmente en la carpeta `assets/
 ### 📊 Ejemplo de resultado (grid facial)
 
 <figure>
-  <img src="assets/grid_reconstructions.png" alt="Grid de reconstrucciones PCA" width="700"/>
+  <img src="assets/comparativa.png" alt="Grid de reconstrucciones PCA" width="700"/>
   <figcaption>Figura: Reconstrucciones de una cara usando k=3,4,5,6,7,8 componentes.</figcaption>
 </figure>
 
 ### 🏥 Ejemplo de resultado (CT recortado)
 
 <figure>
-  <img src="assets/ct_cropped.png" alt="CT scan recortado" width="500"/>
+  <img src="assets/comparativa.png" alt="CT scan recortado" width="500"/>
   <figcaption>Figura: Escaneo CT recortado para enfocarse en la región abdominal.</figcaption>
 </figure>
 
