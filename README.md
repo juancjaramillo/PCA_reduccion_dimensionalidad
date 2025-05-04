@@ -235,5 +235,5 @@ MIT. Ver [LICENSE](LICENSE).
 
 ## 📌 Autor
 
-**Tu Nombre** — [GitHub](https://github.com/tu-usuario)
+**Juan Jaramillo** — [GitHub](https://github.com/juancjaramillo)
 #
